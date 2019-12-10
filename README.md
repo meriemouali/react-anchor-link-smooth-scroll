@@ -1,3 +1,4 @@
+Run on Repl.it](https://repl.it/badge/github/mauricevancooten/react-anchor-link-smooth-scroll)](https://repl.it/github/mauricevancooten/react-anchor-link-smooth-scroll)
 # React Anchor Link Smooth Scroll
 
 React component for anchor links using the [smoothscroll](https://github.com/iamdustan/smoothscroll) polyfill.
